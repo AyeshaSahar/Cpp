@@ -1,4 +1,5 @@
-/*Design a code for quadratic formulae*/
+/*This is a simple program for quadratic formula that does not find whether the roots are imaginary or real, 
+as it just focuses on calculation on basis of user input*/
 
 #include <iostream>
 #include<math.h>
